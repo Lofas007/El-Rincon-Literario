@@ -17,6 +17,6 @@ Implementar y buscar soluciones funcionales, entendibles y mantenibles en base a
 * Apis de refuerzo: Gutendex.
 * BDMS: Postgrest.
 ## Mayores desafios
-*Incorporacion de interfaces y su utilizacion en packetes/archivos.
-*logica de funcionamiento entre clases.
-*Transformacion de respuesta java a json
+* Incorporacion de interfaces y su utilizacion en packetes/archivos.
+* logica de funcionamiento entre clases.
+* Transformacion de respuesta java a json
