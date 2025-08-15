@@ -5,10 +5,10 @@ El alcance de sus capacidades es unicamente para traer respuestas sobre libros y
 ## Objetivos
 Implementar y buscar soluciones funcionales, entendibles y mantenibles en base a lo aprendido en la ruta de estudio en alura latam. Este es uno de los challenge para la finalizacion de la ruta de estudio.
 ## Funcionalidades
-*HttpClient.
-*HttpResponse.
-*HttpRequest.
-*CRUD parcial (unicamente se pueden hacer post y gets).
+* HttpClient.
+* HttpResponse.
+* HttpRequest.
+* CRUD parcial (unicamente se pueden hacer post y gets).
 * resultado por consola en formato json.
 ## Herramientas utilizadas
 * Editor de codigo: Intellij.
